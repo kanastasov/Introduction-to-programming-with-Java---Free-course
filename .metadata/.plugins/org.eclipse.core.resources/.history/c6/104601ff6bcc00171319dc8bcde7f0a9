@@ -1,0 +1,14 @@
+package com.TheMasterMindGroup.ObjectRickAndMorty;
+
+public class TestRick {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		Rick rick1 = new Rick();
+		
+		System.out.println(rick1.toString());
+	}
+
+}

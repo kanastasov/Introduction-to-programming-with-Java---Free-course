@@ -1,0 +1,15 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class TestAnimals {
+
+	public static void main(String[] args) {
+
+		
+		Cats cat1 = new Cats();
+		
+		System.out.println(cat1.toString(););
+		
+		
+	}
+
+}

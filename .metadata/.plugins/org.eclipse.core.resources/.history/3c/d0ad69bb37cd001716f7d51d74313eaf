@@ -1,0 +1,32 @@
+package com.TheMasterMindGroup.Polymorphism;
+
+public class TestAnimals {
+
+	public static void main(String[] args) {
+
+		Dogs germanShepart = new Dogs();
+		germanShepart.setBarking("Barking");
+		germanShepart.setCuddle("Cudling");
+		germanShepart.setEat("Give me Food!");
+		germanShepart.setWalk("Running");
+		
+
+		
+		Dogs smallDog = new Dogs();
+		smallDog.setBarking("Too small to bark");
+		
+		Cats littleKitty = new Cats();
+		littleKitty.setMial("Miaaall");
+		
+		
+		
+		
+	}
+
+	
+	private static void displayAnimals(Animals animalObj) {
+		
+		System.out.println(animalObj.toString());
+	}
+	
+}

@@ -1,0 +1,6 @@
+package com.TheMasterMindGroup.Interfaces;
+
+public class Apples {
+
+	String description = "Apples are healty";
+}

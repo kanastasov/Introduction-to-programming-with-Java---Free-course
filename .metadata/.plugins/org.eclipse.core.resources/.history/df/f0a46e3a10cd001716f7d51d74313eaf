@@ -1,0 +1,21 @@
+package com.TheMasterMindGroup.TextInputOutput;
+
+import java.io.File;
+
+public class WriteIntoFile {
+
+	public static void main(String[] args)  {
+		// TODO Auto-generated method stub
+
+		File file = new File("C:\\Users\\kanastasov\\Desktop\\output.txt");
+		
+		if(file.exists()) {
+			System.exit(0);
+		}
+		
+		PrintWriter output = new PrintWriter(file);
+		
+		
+	}
+
+}

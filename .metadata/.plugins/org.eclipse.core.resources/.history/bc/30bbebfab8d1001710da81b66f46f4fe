@@ -1,0 +1,11 @@
+package com.TheMasterMindGroup.Exceptions;
+
+import java.util.Scanner;
+
+public class ReadFromFileWithFinally {
+
+	public static void main(String[] args) {
+
+		
+	}
+}

@@ -1,0 +1,26 @@
+package com.TheMasterMindGroup.ObjectRickAndMorty;
+
+public class Rick {
+
+	public Boolean isDrinking;
+	public Boolean isNeggingJery;
+	public Boolean isOnAdventure;
+	
+	
+	public Rick() {
+		isDrinking = true;
+		isNeggingJery = true;
+		isOnAdventure = false;
+	}
+	
+	public Rick(Boolean isDrinking, Boolean isNeggingJery,Boolean isOnAdventure) {
+		
+		this.isDrinking = isDrinking;
+		this.isNeggingJery = isNeggingJery;
+		this.isOnAdventure = isOnAdventure;
+	}
+	
+	
+	
+	
+}

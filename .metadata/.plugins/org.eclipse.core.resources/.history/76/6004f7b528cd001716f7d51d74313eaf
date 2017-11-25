@@ -1,0 +1,19 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class Dogs extends Animals {
+
+	private String barking;
+
+	public Dogs() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Dogs(String barking, String walk, String eat, String cuddle) {
+		super(walk, eat, cuddle);
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+}

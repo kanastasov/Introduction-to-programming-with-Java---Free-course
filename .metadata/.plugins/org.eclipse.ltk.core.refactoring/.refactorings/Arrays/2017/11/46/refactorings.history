@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.TheMasterMindGroup.Arrays&apos; to &apos;Arrays/src&apos;&#x0D;&#x0A;- Original project: &apos;Arrays&apos;&#x0D;&#x0A;- Destination element: &apos;Arrays/src&apos;&#x0D;&#x0A;- Original element: &apos;Arrays/src/com.TheMasterMindGroup.Arrays&apos;" description="Copy package" destination="/src" element1="/src&lt;com.TheMasterMindGroup.Arrays" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1510999598392" version="1.0"/>
+</session>

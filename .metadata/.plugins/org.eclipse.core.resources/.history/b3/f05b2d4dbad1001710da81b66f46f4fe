@@ -1,0 +1,11 @@
+package com.TheMasterMindGroup.Exceptions;
+
+
+public class ReadFromFileWithFinally {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+}

@@ -1,0 +1,25 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class Dogs extends Animals {
+
+	private String barking;
+
+	public Dogs() {
+		
+	}
+	
+	public Dogs(String barking) {
+		super();
+		this.barking = barking;
+	}
+	
+	
+	public Dogs(String barking,String walk, String eat, String cuddle) {
+		super();
+		this.barking = barking;
+		setWalk(walk);
+	}
+	
+	
+	
+}

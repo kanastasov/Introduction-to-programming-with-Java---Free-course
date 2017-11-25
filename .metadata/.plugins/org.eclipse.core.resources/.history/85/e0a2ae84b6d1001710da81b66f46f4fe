@@ -1,0 +1,13 @@
+package com.TheMasterMindGroup.Exceptions;
+
+
+public class ArithmeticDevision {
+
+	public static void main(String[] args) {
+
+		
+		
+		
+	}
+
+}

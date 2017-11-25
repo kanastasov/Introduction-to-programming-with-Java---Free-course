@@ -1,0 +1,10 @@
+package com.TheMasterMindGroup.Interfaces;
+
+public class TestJuicy {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

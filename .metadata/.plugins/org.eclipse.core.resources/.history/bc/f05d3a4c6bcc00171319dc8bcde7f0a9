@@ -1,0 +1,19 @@
+package com.TheMasterMindGroup.ObjectRickAndMorty;
+
+public class TestRick {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		Rick circle1 = new Rick();
+		System.out.println("The radius is : " + circle1.radius + " the area is: " + circle1.getArea());
+		
+		Rick circle2 = new Rick(5);
+		System.out.println("The radius is : " + circle2.radius + " the area is: " + circle2.getArea());
+		
+		Rick circle3 = new Rick(25);
+		System.out.println("The radius is : " + circle3.radius + " the area is: " + circle3.getArea());
+	}
+
+}

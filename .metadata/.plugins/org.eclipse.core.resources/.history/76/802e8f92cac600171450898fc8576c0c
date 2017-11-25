@@ -1,0 +1,33 @@
+package com.TheMasterMindGroup.Methods;
+
+public class MaxValues {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int firstValue = 5;
+		int secondValue = 8;
+		
+		
+		
+		int result = maxValue(firstValue, secondValue);
+		System.out.println("The result is : " + result);
+		
+	}
+
+	
+	public static int maxValue(int firstParam, int secondParam) {
+		
+		int result;
+		
+		if(firstParam > secondParam) {
+			result = firstParam;
+		} else {
+			result = secondParam;
+		}
+		
+		return result;
+		
+		
+	}
+}

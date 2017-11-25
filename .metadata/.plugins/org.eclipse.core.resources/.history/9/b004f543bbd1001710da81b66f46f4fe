@@ -1,0 +1,17 @@
+package com.TheMasterMindGroup.Exceptions;
+
+import java.io.PrintWriter;
+
+public class ReadFromFileWithFinally {
+
+	public static void main(String[] args) {
+
+		PrintWriter output = null;
+		
+		try {
+			output = new PrintWriter("C:\\Users\\kanastasov\\Desktop\\output.txt");
+		}
+		
+		
+	}
+}

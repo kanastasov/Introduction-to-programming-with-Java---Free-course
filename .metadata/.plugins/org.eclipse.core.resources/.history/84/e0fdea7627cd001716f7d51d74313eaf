@@ -1,0 +1,25 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class Animals {
+
+	private String walk;
+	private String eat;
+	private String cuddle;
+	
+	public Animals() {
+		
+	}
+	
+	
+	public Animals(String walk, String eat, String cuddle) {
+		super();
+		this.walk = walk;
+		this.eat = eat;
+		this.cuddle = cuddle;
+	}
+	
+	
+	
+	
+	
+}

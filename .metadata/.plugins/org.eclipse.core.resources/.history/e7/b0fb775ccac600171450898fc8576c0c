@@ -1,0 +1,19 @@
+package com.TheMasterMindGroup.Methods;
+
+public class MaxValues {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/**
+		 * 
+		 
+		The syntax for defining a method is as follows:
+			modifier returnValueType methodName(list of parameters) {
+			// Method body;
+		
+			}
+			*/
+	}
+
+}

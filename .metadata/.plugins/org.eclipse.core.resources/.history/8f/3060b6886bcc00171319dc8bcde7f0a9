@@ -1,0 +1,15 @@
+package com.TheMasterMindGroup.ObjectRickAndMorty;
+
+public class TestRick {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		Rick rick1 = new Rick();
+		
+		System.out.println("The default Rick is: " + rick1 + " the area is: " + circle1.getArea());
+		
+	}
+
+}

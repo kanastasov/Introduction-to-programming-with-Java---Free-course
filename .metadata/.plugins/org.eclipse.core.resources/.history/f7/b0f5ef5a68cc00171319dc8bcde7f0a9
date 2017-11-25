@@ -1,0 +1,16 @@
+package com.TheMasterMindGroup.SimpleObjects;
+
+public class TestCircle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Circle myCircle1 = new Circle();
+		
+		System.out.println("The radius of myCircle1 is : " + myCircle1.radius + " the area is : " + myCircle1.getArea(myCircle1.radius));
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ArithmeticDevision.java&apos; to &apos;Exceptions/src/com.TheMasterMindGroup.Exceptions&apos;&#x0D;&#x0A;- Original project: &apos;Exceptions&apos;&#x0D;&#x0A;- Destination element: &apos;Exceptions/src/com.TheMasterMindGroup.Exceptions&apos;&#x0D;&#x0A;- Original element: &apos;com.TheMasterMindGroup.Exceptions.ArithmeticDevision.java&apos;" description="Copy compilation unit" destination="/src&lt;com.TheMasterMindGroup.Exceptions" element1="/src&lt;com.TheMasterMindGroup.Exceptions{ArithmeticDevision.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1511597789098" units="1" version="1.0"/>
+</session>

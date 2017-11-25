@@ -1,0 +1,18 @@
+package com.TheMasterMindGroup.BasicPrograming;
+
+public class ComputeArea {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		/**
+		 * 1. Read in the radius. 
+		 * 2. Compute the area using the following formula:
+		 *    area * = radius * radius * p 
+		 * 3. Display the area
+		 */
+	}
+
+}

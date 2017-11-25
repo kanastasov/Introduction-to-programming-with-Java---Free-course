@@ -1,0 +1,9 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class Dogs extends Animals {
+
+	private String barking;
+	
+	
+	
+}

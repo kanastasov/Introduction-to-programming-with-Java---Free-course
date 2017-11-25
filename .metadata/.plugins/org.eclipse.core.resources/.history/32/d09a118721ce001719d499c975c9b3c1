@@ -1,0 +1,5 @@
+package com.TheMasterMindGroup.Interfaces;
+
+public class Oranges implements Juicy {
+
+}

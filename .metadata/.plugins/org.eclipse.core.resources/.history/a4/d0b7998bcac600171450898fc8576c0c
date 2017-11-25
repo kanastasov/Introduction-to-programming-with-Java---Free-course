@@ -1,0 +1,31 @@
+package com.TheMasterMindGroup.Methods;
+
+public class MaxValues {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/**
+			modifier returnValueType methodName(list of parameters) {
+			// Method body;
+		
+			}
+			*/
+	}
+
+	
+	public static int maxValue(int firstParam, int secondParam) {
+		
+		int result;
+		
+		if(firstParam > secondParam) {
+			result = firstParam;
+		} else {
+			result = secondParam;
+		}
+		
+		return result;
+		
+		
+	}
+}

@@ -1,0 +1,15 @@
+package com.TheMasterMindGroup.TextInputOutput;
+
+import java.io.File;
+
+public class ReadFromFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		File file = new File("C:\\Users\\kanastasov\\Desktop\\output.txt");
+		
+		
+	}
+
+}

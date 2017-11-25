@@ -1,0 +1,25 @@
+package com.TheMasterMindGroup.ObjectRickAndMorty;
+
+public class Rick {
+
+	public double radius;
+	
+	
+	public Rick() {
+		radius = 2;
+	}
+	
+	public Rick(double radius) {
+		this.radius = radius;
+	}
+	
+	
+	public double getArea() {
+		
+		double area = radius * radius * Math.PI;
+		
+		return area;
+		
+	}
+	
+}

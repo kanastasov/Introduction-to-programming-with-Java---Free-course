@@ -1,0 +1,23 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class TestAnimals {
+
+	public static void main(String[] args) {
+
+		Dogs germanShepart = new Dogs();
+		
+		germanShepart.setBarking("Barkkk");
+		germanShepart.setCuddle("Cuddling");
+		germanShepart.setEat("Give me food");
+		germanShepart.setWalk("Running");
+		
+		
+		
+		Cats cat1 = new Cats();
+		cat1.setMial("Mialll");
+		System.out.println(cat1.toString());
+		
+		
+	}
+
+}

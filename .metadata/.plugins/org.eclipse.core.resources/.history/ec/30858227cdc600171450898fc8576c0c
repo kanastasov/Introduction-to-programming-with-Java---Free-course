@@ -1,0 +1,56 @@
+package com.TheMasterMindGroup.Methods;
+
+
+public class MaxValuesMethodsOverloading {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int firstValue = 111;
+		int secondValue = 222;
+		
+		
+		
+		int result = maxValue(firstValue, secondValue);
+//		System.out.println("The Max is : " + result);
+		
+		
+		double firstValueDouble = 5;
+		double secondValueDouble = 11.05;
+		
+		double resultInDouble = maxValue(firstValueDouble,secondValueDouble);
+		System.out.println("The max of doubles is: " + resultInDouble);
+		
+	}
+
+	
+	public static int maxValue(int firstParam, int secondParam) {
+		
+		int result;
+		
+		if(firstParam > secondParam) {
+			result = firstParam;
+		} else {
+			result = secondParam;
+		}
+		
+		return result;
+		
+		
+	}
+	
+	public static double maxValue(double firstParam, double secondParam) {
+		
+		double result;
+		
+		if(firstParam > secondParam) {
+			result = firstParam;
+		} else {
+			result = secondParam;
+		}
+		
+		return result;
+		
+		
+	}
+}

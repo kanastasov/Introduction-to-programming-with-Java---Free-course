@@ -1,0 +1,17 @@
+package com.TheMasterMindGroup.TextInputOutput;
+
+import java.io.File;
+
+public class WriteIntoFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		File fileName = new File("example.txt");
+		
+		if(fileName.exists()) {
+			System.out(0);
+		}
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.TheMasterMindGroup.Inheritance;
+
+public class Animals {
+
+	private String walk;
+	private String eat;
+	private String cuddle;
+	
+	
+	
+}

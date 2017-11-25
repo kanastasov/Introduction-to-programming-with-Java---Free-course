@@ -1,0 +1,26 @@
+package com.TheMasterMindGroup.Exceptions;
+
+import java.util.Scanner;
+
+public class ArithmeticDevision {
+
+	public static void main(String[] args) {
+
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Enter two integers for devision: ");
+		
+		int firstNumber = input.nextInt();
+		int secondNumber = input.nextInt();
+	
+		
+	}
+
+	public static int resultIntegers(int firstNumber, int secondNumber) {
+		
+		if(secondNumber == 0) {
+			throw new ArithmeticException("The second number can not be zero: ");
+			
+		}
+	}
+}
